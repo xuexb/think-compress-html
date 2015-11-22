@@ -16,8 +16,6 @@ export default class extends think.middleware.base {
             return content;
         }
 
-        console.log(this.http, content)
-
         let compress = this.http.param('compress');
 
         if (!compress) {

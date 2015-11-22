@@ -1,7 +1,7 @@
 {
   "name": "think-compress-html",
   "description": "think的简单html压缩",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "xiaowu <fe.xiaowu@gmail.com>",
   "scripts": {
     "test": "mocha --reporter spec --timeout 5000 --recursive test/",
